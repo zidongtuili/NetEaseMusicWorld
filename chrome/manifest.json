@@ -11,7 +11,7 @@
     "128": "img/logo128.png"
   },
   "manifest_version": 2,
-  "permissions": [ "notifications", "*://music.163.com/", "activeTab", "contextMenus", "storage",  "webRequest", "webRequestBlocking" ],
+    "permissions": [ "notifications", "*://music.163.com/", "activeTab", "contextMenus", "storage",  "webRequest", "webRequestBlocking","*://m10.music.126.net/","*://ws.acgvideo.com/" ],
   "name": "__MSG_appName__",
   "author": "acgotaku",
   "version": "0.0.2"
